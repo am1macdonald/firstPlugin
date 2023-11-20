@@ -1,0 +1,11 @@
+# ninja log v5
+13	38224	1700442307239134623	extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o	910712fbc70c989f
+91212	93393	1700442362447187809	extras/Build/juceaide/juceaide_artefacts/Debug/juceaide	920987fb7544569f
+69	27698	1700442296747124515	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.o	983d1a73eab9f60d
+0	33	0	/home/adam/projects/audio/SimpleEQ/cmake-build-debug/_deps/juce-build/tools/CMakeFiles/cmake.verify_globs	ff6dc14b0286972b
+20	91212	1700442360207185651	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.o	761c3dfa04b18732
+22	58648	1700442327699154333	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.o	4c96a102cf92e057
+144	57510	1700442326543153219	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.o	9507bef0f18750e8
+12	42058	1700442311123138364	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o	32a12cfbda06805e
+23	40025	1700442309087136403	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.o	829c9f4d3507692f
+0	31	0	/home/adam/projects/audio/SimpleEQ/cmake-build-debug/_deps/juce-build/tools/CMakeFiles/cmake.verify_globs	ff6dc14b0286972b
