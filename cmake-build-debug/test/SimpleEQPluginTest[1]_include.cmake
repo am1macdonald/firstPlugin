@@ -1,5 +1,0 @@
-if(EXISTS "/home/adam/projects/audio/SimpleEQ/cmake-build-debug/test/SimpleEQPluginTest[1]_tests.cmake")
-  include("/home/adam/projects/audio/SimpleEQ/cmake-build-debug/test/SimpleEQPluginTest[1]_tests.cmake")
-else()
-  add_test(SimpleEQPluginTest_NOT_BUILT SimpleEQPluginTest_NOT_BUILT)
-endif()
